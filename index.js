@@ -1,5 +1,5 @@
 const Import = require('./lib/Importer.js')
 
-Import.properties()
+//Import.properties()
 //Import.types()
-//Import.definitions()
+Import.definitions()
